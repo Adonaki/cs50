@@ -10,3 +10,7 @@
 	img {max-width:25%;
 		align-content: center;
 	}
+
+	table {
+		padding: 10px;
+	}

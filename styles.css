@@ -16,12 +16,16 @@
 	}
 
 	table {
-		padding: 10px;
-		margin: 30px;
+		margin: auto;
 		text-align: center;
+		width: 80% !important;
 	}
 
 	button {
 	  margin:auto;
 	  display:block;
+	}
+
+	form {
+		margin:20px;
 	}
